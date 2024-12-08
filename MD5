@@ -1,0 +1,17 @@
+7b056f8d93c4f1205facbfc15c0583be *DESCRIPTION
+3cb7aa767c22b93ad3f3927c32b5dbd7 *NAMESPACE
+6a924af25d32459668aced9da874535b *R/test-script-2024-09-18.R
+cba6bf844600d8500bd087a89eb4fb85 *man/Q.Rd
+03168b50027a1a28d8978d9d7613548e *man/S.Rd
+ad252a475a9f1339627da54d03125586 *man/T_m.Rd
+a16f7ed855f00db2b85f0b4e261091e9 *man/a_b_hat.Rd
+23d7ff231e986bcf5e102c6ffc52ffec *man/barrett_donald_cutoff.Rd
+da73f588335cba3b89d4c928af95685d *man/barrett_donald_p.Rd
+06637a2d386a531687edbf3b2110b885 *man/calculate_bandwidth.Rd
+bd938683516d24fe31a6bd4c8c74e764 *man/gaussian_kernel.Rd
+37ccf3657d18dbd37c62d5ba408eb856 *man/modified_S_stat.Rd
+ade5c56fc408f06c3d81330addf13c5c *man/monotonicity_test.Rd
+cf45549002993d8cb8fbc00b4fe79db1 *man/nnr_test.Rd
+88f3c416ea58a478db1da94b5139e55c *man/sd_test.Rd
+3fb9a6033cb6d8fd3592fd3072d7ae3c *man/smoother_fitter.Rd
+ff02437acbe258f9ed4c6e28501761d2 *man/test_assumptions.Rd
